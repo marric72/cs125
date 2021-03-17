@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
   char initial;    int age;    float weight;
   printf("Enter your age: ");
@@ -15,4 +16,3 @@ int main() {
   printf("Test addition weight+char %.2f\n", initial+weight);
   return 0;
 }
-
