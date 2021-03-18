@@ -14,5 +14,6 @@ int main() {
   printf("Test addition int+char %d\n", age+initial);
   printf("Test addition weight+int %.1f\n", age+weight);
   printf("Test addition weight+char %.2f\n", initial+weight);
+  printf("Everything works, probably!\n");
   return 0;
 }
