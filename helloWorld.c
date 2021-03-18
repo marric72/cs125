@@ -2,6 +2,9 @@
 
 int main() {
   char initial;    int age;    float weight;
+  
+  printf("Hello World! ");
+  
   printf("Enter your age: ");
   scanf("%d", &age);
   printf("Enter your weight: ");
