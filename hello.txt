@@ -1,3 +1,4 @@
 hello
 This class rules!
 
+I'm a potato
