@@ -1,3 +1,4 @@
+//This is a sample C program
 #include <stdio.h>
 
 int main() {
