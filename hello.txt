@@ -1,7 +1,7 @@
 hello
 This class rules!
 
-I'm a programmer
+I'm a potato
 
 A new line of code
 
