@@ -4,7 +4,7 @@
 int main() {
   char initial;    int age;    float weight;
   
-  printf("Hello World! ");
+  printf("Hello Bryce! - You're the best! ");
   
   printf("Enter your age: ");
   scanf("%d", &age);
